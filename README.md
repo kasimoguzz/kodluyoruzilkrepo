@@ -2,3 +2,5 @@
 Kodluyoruz Eğitimi kapsamında açtığım ilk repo
 
 # deneme
+
+[resim]()
